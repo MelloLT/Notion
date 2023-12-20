@@ -1,0 +1,10 @@
+.activeLink {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
+}
